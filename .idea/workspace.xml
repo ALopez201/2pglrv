@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c80855b-c63f-4223-b330-dead3be58c6b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -79,8 +77,16 @@
       <updated>1563831695385</updated>
       <workItem from="1563831699683" duration="7725000" />
       <workItem from="1564514661893" duration="644000" />
-      <workItem from="1564527015446" duration="4047000" />
+      <workItem from="1564527015446" duration="4550000" />
     </task>
+    <task id="LOCAL-00001" summary="added new heroku app.">
+      <created>1564539632361</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1564539632361</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,5 +104,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added new heroku app." />
+    <option name="LAST_COMMIT_MESSAGE" value="added new heroku app." />
   </component>
 </project>
