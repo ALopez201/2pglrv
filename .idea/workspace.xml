@@ -105,7 +105,7 @@
       <updated>1563831695385</updated>
       <workItem from="1563831699683" duration="7725000" />
       <workItem from="1564514661893" duration="644000" />
-      <workItem from="1564527015446" duration="11349000" />
+      <workItem from="1564527015446" duration="11622000" />
     </task>
     <task id="LOCAL-00001" summary="added new heroku app.">
       <created>1564539632361</created>
@@ -143,6 +143,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added new heroku app." />
     <MESSAGE value="incorporated additional blade file for about page." />
-    <option name="LAST_COMMIT_MESSAGE" value="incorporated additional blade file for about page." />
+    <MESSAGE value="footer, head, header, sidebar blade files added to designated folders." />
+    <option name="LAST_COMMIT_MESSAGE" value="footer, head, header, sidebar blade files added to designated folders." />
   </component>
 </project>
