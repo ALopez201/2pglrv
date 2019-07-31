@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Welcome to Anthony's Home Page
+                    About
                 </div>
 
                 <div class="links">
