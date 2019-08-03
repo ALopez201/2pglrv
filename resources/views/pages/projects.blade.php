@@ -1,4 +1,4 @@
 @extends('layouts.sidebar')
 @section('content')
-    i am the projects page
+    This is Anthony's projects page
 @stop

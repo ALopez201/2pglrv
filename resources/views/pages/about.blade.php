@@ -1,5 +1,5 @@
 @extends('layouts.sidebar')
 @section('content')
-    i am the about page
+   This is Anthony's about page
 @stop
 
